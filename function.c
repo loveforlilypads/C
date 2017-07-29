@@ -18,7 +18,7 @@ int f( int x );
 
 int main ( void )
 {	
-?
+
 	int x, y, z;
 
 /* the line y = f (z) ; calls the function f ( ) with the value of z as the parameter and assigns the return value to y. /*
